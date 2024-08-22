@@ -38,7 +38,11 @@ playwrightなどハマったライブラリは追っかけるのことはあり�
 
 ## 職務経歴
 
-### BASE株式会社 2021 ~ 現職
+### 株式会社Linc’well 2024 ~ 現職
+- webアプリケーションの作成
+  - 決済チームの立ち上げ   
+
+### BASE株式会社 2021 ~ 2024
 - webアプリケーションの作成
   - [デザイン編集リニューアル](https://binc.jp/press-room/news/press-release/pr_20201015)
   - [テイクアウト機能](https://baseu.jp/15390)
